@@ -1,0 +1,46 @@
+<?xml version="1.0" ?><group>
+    <person id="100">
+        <name>Mike Smith</name>
+        <age>34</age>
+        <weight>90</weight>
+        <height>175</height>
+    </person>
+
+    <person id="2">
+        <name>Emma Watson</name>
+        <age>24</age>
+        <weight>65</weight>
+        <height>162</height>
+    </person>
+
+    <person id="3">
+        <name>New Name</name>
+        <age>42</age>
+        <weight>78</weight>
+        <height>179</height>
+    </person>
+    <person id="4">
+        <name>John Silverhand</name>
+        <age>-10</age>
+        <weight>84</weight>
+        <height>174</height>
+    </person>
+    <person id="5">
+        <name>Joseph Joestar</name>
+        <age>65</age>
+        <weight>89</weight>
+        <height>170</height>
+    </person>
+    <person id="6">
+        <name>Paul Green</name>
+        <age>33</age>
+        <weight>99</weight>
+        <height>203</height>
+    </person>
+    <person id="6">
+        <name>Paul Green</name>
+        <age>33</age>
+        <weight>99</weight>
+        <height>203</height>
+    </person>
+</group>
